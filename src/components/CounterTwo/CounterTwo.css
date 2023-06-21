@@ -1,0 +1,40 @@
+.first-pair-of-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0px 0px 10px 0px;
+}
+.first-pair-of-btns button {
+  padding: 8px 8px 8px 8px;
+  background-color: #f37900;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.second-pair-of-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 0px 10px 0px;
+}
+.second-pair-of-btns button {
+  padding: 8px 8px 8px 8px;
+  background-color: rgb(61 70 45 / 60%);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin: 0px 0px 0px 5px;
+  cursor: pointer;
+}
+
+.reset {
+  padding: 8px 8px 8px 8px;
+  background-color: rgb(255 0 0 / 60%);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin: 0px 0px 0px 10px;
+  cursor: pointer;
+}

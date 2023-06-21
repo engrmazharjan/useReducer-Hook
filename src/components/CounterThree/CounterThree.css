@@ -1,0 +1,28 @@
+.increment,
+.decrement {
+  padding: 8px 8px 8px 8px;
+  background-color: rgb(61 70 45 / 60%);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin: 0px 0px 0px 5px;
+  cursor: pointer;
+}
+
+.reset {
+  padding: 8px 8px 8px 8px;
+  background-color: rgb(255 0 0 / 60%);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  margin: 0px 0px 0px 10px;
+  cursor: pointer;
+}
+
+.first-counter h3 {
+  margin: 0px 0px 6px 6px;
+}
+
+.second-counter h3 {
+  margin: 18px 0px 6px 6px;
+}
